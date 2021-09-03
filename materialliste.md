@@ -1,0 +1,21 @@
+## Materialliste (Beispiel)
+- Allgemein
+    - Bierzeltgarnituren
+    - Beachflag
+    - Pavillione
+    - Musikanlage / Boom Box
+- Löten
+    - Stromspeicher für Lötkolben
+    - Lötkolben
+    - Lötzubehör
+    - Lötsets
+- Hacken
+    - Notebooks
+    - Stromspeicher für Notebooks
+    - LTE Modem & WLAN (Freifunk?)
+- Socialisen
+    - Snacks (vegan & typische Allergien)
+    - Getränke (u.a. immer Wasser. Lieber zu viel davon!)
+- Anders
+    - 3D Drucker?
+    - Handflyer?
